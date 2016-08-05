@@ -2,7 +2,7 @@
 Ian Clark Car Detail
 
 ## Vague Project desc
-- uses bootstrap
+- uses bootstrap (helpful site = http://getbootstrap.com/components/ )
 - uses font-awesome
 - uses github pages
 - uses google domains / dns (for the website url) - https://domains.google.com
